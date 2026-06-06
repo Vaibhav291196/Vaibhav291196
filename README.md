@@ -26,10 +26,15 @@ Computer Vision: Object Detection, Image Classification, Segmentation, Knowledge
 Tools: Git, GitHub, Kaggle, Jupyter Notebook, VS Code, Tableau, Power-BI, Pycharm
 
 💼 Experience
-Research Intern | IISPPR
+
+Research Intern | IISPPR: 
 Collected, curated, and analyzed open-source datasets related to microplastic and macroplastic contamination in water bodies.
 Performed data cleaning, preprocessing, and exploratory data analysis to identify contamination trends and environmental patterns.
 Supported environmental research through statistical analysis, visualization, and literature review.
+
+Research Intern | Suvidha Foundation: 
+Designed and implemented a novel distillation framework using YOLO V11n as a teacher model, successfully optimizing a lightweight YOLO V11n student architecture for multiclass weed detection. Achieved a 42% reduction in parameters (2.6M to 1.5M) and a 25% decrease in inference latency (0.16s to 0.12s) by leveraging channel-wise distillation across key architectural layers (16, 19, 22). Compressed YOLO V11n model while ensuring minimal computational footprint and maintaining robust performance across 12 distinct weed classes in the CottenWedd-12 dataset. Authored a comprehensive research manuscript detailing the development and validation of the ‘Distilled LightWeight YOLO V11n’ model.
+
 
 
 📫 Connect With Me
