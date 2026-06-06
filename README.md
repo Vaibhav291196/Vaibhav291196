@@ -36,9 +36,9 @@ Supported environmental research through statistical analysis, visualization, an
 
 📧 Email: vaibhavsolanle29@gmail.com
 
-💼 LinkedIn: (https://www.linkedin.com/in/vaibhav-solanke-b584ab186/)
+💼 LinkedIn: https://www.linkedin.com/in/vaibhav-solanke-b584ab186/
 
-💼 LeetCode: (https://leetcode.com/u/VAIBHAV_SOLANKE/)
+💼 LeetCode: https://leetcode.com/u/VAIBHAV_SOLANKE/
 
 
 ✨ Areas Of Interests
